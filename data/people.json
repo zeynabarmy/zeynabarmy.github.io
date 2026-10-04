@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "person_1791128478389_cj9kr2r3h",
+    "name": "زینب",
+    "description": "",
+    "starred": false,
+    "color": "#14b8a6",
+    "weight": 1,
+    "in_wheel": 0,
+    "created_at": 1791128478389,
+    "updated_at": 1791128478389,
+    "inWheel": false,
+    "createdAt": 1791128478389,
+    "updatedAt": 1791128478389
+  },
+  {
+    "id": "person_1791128496666_ifzyh0ci3",
+    "name": "وحید",
+    "description": "",
+    "starred": false,
+    "color": "#f59e0b",
+    "weight": 1,
+    "in_wheel": 0,
+    "created_at": 1791128496666,
+    "updated_at": 1791128496666,
+    "inWheel": false,
+    "createdAt": 1791128496666,
+    "updatedAt": 1791128496666
+  }
+]
